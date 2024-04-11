@@ -12,9 +12,9 @@ https://github.com/Rvhaf/Unity-2D-Game/assets/129795645/09c1e2ea-16c8-4ffe-8d9d-
 https://github.com/Rvhaf/Unity-2D-Game/assets/129795645/f149dd8a-088d-4a64-a1dd-61d3bbc72692
 
 <h4>3-Assets resource</h4>
-<img url="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/51aafc06-9693-40fb-9395-dd2bc6d5267e.webp"> 
+<img alt="Tiny Forest Assets" width="400" src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/51aafc06-9693-40fb-9395-dd2bc6d5267e.webp"> 
 
-<img url="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/dbd5526d-a99a-46da-a1e8-89db73a4b1ca.webp">
+<img alt="Funny Pinguin Assets" width="400" src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/dbd5526d-a99a-46da-a1e8-89db73a4b1ca.webp">
 <h5>Here you can find and downlaod</h5>
 <url>https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685</url>
 
